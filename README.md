@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jemai ahmed</h1>
 <h3 align="center">I am a Software Engineer with a passion for staying up-to-date on the latest technologies. I am always seeking opportunities to expand my knowledge and enhance my skills.</h3>
+<h3 align="center">----</h3>
+<h3 align="center">
+Je suis ingénieur en informatique avec une passion pour rester informé sur les dernières technologies. Je suis toujours à la recherche d'opportunités pour élargir mes connaissances et améliorer mes compétences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjemai1919&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjemai1919" /> </p>
 
